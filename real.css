@@ -50,4 +50,8 @@ p{
     #navtop{
         background: #ff477e;
     }
+    #navtop .nav-link:hover{
+    
+        color:white;
+    }
  }
